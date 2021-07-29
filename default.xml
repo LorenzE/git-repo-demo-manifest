@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote fetch="https://github.com/LorenzE/" name="LorenzE" />
+
+<project name="git-repo-demo-a.git" path="3rd-party/git-repo-demo-a" remote="LorenzE"/>
+<project name="git-repo-demo-b.git" path="3rd-party/git-repo-demo-b" remote="LorenzE"/>
+
+</manifest>
