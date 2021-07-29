@@ -3,7 +3,7 @@
 
 <remote fetch="https://github.com/LorenzE/" name="LorenzE" />
 
-<project name="git-repo-demo-a.git" path="3rd-party/git-repo-demo-a" remote="LorenzE"/>
-<project name="git-repo-demo-b.git" path="3rd-party/git-repo-demo-b" remote="LorenzE"/>
+<project name="git-repo-demo-a.git" path="3rd-party/git-repo-demo-a" remote="LorenzE" revision="75999e258197138620643ef017548c519c8d34be" />
+<project name="git-repo-demo-b.git" path="3rd-party/git-repo-demo-B" remote="LorenzE" revision="ecd0a2a6c2fadb92c2e5ba9baade2c2887eed00e" />
 
 </manifest>
